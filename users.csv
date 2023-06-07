@@ -1,0 +1,9 @@
+_id,address,date_of_birth,email,first_name,last_name,mobile,role,user_name,user_password
+4,"[{""id"":1,""house_number"":12,""street"":""street "",""area"":""malleshwara"",""city"":""banglore"",""country"":""australia"",""pincode"":503156}]",30-06-2001,suraj@gmail.com,Suarj ,M,92765763234321,Admin,suraj_m,123
+5,"[{""_id"":1,""house_number"":""121"",""street"":""6th Cross"",""area"":""Malleshwaram"",""city"":""Banglore"",""country"":""India"",""pincode"":""270023""}]",2023-04-05,jack@gmail.com,Jack,Jill,9901602321,User,jack_jill,111
+6,"[{""_id"":1,""house_number"":""91"",""street"":""ram street"",""area"":""rama nagar"",""city"":""rameshwaar"",""country"":""india"",""pincode"":""522225""}]",2001-01-01,ram@gmail.com,Ram,Ram,987263781,User,ram_123,123
+7,"[{""_id"":1,""house_number"":""11"",""street"":""Sun street"",""area"":""hollywood"",""city"":""washington DC"",""country"":""USA"",""pincode"":""609786""}]",1988-06-21,tom@gmail.com,Tom,Cruise,98768575,User,tom_cruise,123
+9,"[{""_id"":1,""house_number"":""21"",""street"":""new street"",""area"":""malleshwaram"",""city"":""banglore"",""country"":""india"",""pincode"":""571316""}]",2000-05-01,manjunathau@gmail.com,Manju,U,9743563275,User,manju_u,123
+11,"[{""id"":1,""house_number"":9,""street"":""new streert"",""area"":""Malleshwaram"",""city"":""Banglore"",""country"":""india"",""pincode"":32131}]",21-03-2001,nitesh@gmail.com,nitesh,hegde,9901602315,User,niteesh,123
+12,"[{""id"":1,""house_number"":""123"",""street"":""alur street"",""area"":""chnagara"",""city"":""chamarajanagara"",""country"":""India"",""pincode"":""571313""}]",2000-11-25,arkeshar@gmail.com,Arkesh,A R,1234567890,User,arkeshar,123
+13,"[{""id"":1,""house_number"":""112"",""street"":""csgsr"",""area"":""hgs"",""city"":""qd"",""country"":""whqvdhgq"",""pincode"":""1426532""}]",2002-02-11,pramod@gmail.com,Pramod,R,7816361435,User,pramodr,123
